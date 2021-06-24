@@ -5,4 +5,4 @@ code implements the extended Euclidean algorithm . Program display a table of a,
 
 Here we varify that −19(1398) + 82(324) = 6 by hand:
 
-<img align="right" alt="GIF" src="https://github.com/jgutierrezCSU/extended-Euclidean-algorithm/blob/main/pic/eea.png" width="440"/>
+<img align="center" alt="GIF" src="https://github.com/jgutierrezCSU/extended-Euclidean-algorithm/blob/main/pic/eea.png" width="440"/>
