@@ -37,6 +37,6 @@ def euclid_algo(x, y):
 
 
     
-a=51459
-b=510357
+a=1398
+b=324
 euclid_algo(a,b)
